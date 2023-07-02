@@ -133,3 +133,5 @@ npm run dev
 ```
 
 You now have Webpack setup along with Tailwind CSS
+
+Credit goes to Brad(Traversy Media)
